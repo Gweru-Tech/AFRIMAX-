@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.log$
+Disallow: /*.sql$
+
+Sitemap: https://afrimax-construction.co.zw/sitemap.xml
